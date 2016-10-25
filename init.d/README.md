@@ -1,0 +1,1 @@
+Modified init.d script to run filebeat as non root user on CentOS 6.x
